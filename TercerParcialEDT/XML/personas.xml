@@ -1,0 +1,17 @@
+<personas>
+    <persona>
+        <nombre>Ana</nombre>
+        <edad>21</edad>
+        <genero>F</genero>
+    </persona>
+    <persona>
+        <nombre>Luis</nombre>
+        <edad>22</edad>
+        <genero>M</genero>
+    </persona>
+    <persona>
+        <nombre>Maria</nombre>
+        <edad>19</edad>
+        <genero>F</genero>
+    </persona>
+</personas>
